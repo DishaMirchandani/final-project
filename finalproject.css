@@ -1,0 +1,36 @@
+.backgroundcircle {
+        fill: url(#backgroundgradient);
+      }
+      
+      .backgroundcircle:hover {
+        fill: url(#gradient1);
+      }
+
+      /*.bg_circle:active {
+        opacity: 0.6;
+      }
+*/
+      .mermaid1 {
+        fill: black;
+      }
+      .mermaid1:hover {
+        fill: white;
+      }
+
+      /*.backslash:active {
+        fill: #FF00FF;
+      }
+
+      #lines {
+        transform: rotate(10deg);
+      }
+
+      #agnes {
+        transition-property: transform;
+        transition-duration: 0.5s;
+        transform-origin: 300px 300px;
+      }
+
+      #agnes:hover {
+        transform: rotate(10deg);
+      }*/

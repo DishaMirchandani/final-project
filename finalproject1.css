@@ -1,0 +1,71 @@
+.circle1 {
+        fill: url(#backgroundgradient);
+      }
+      
+      .circle1:hover {
+        fill: url(#gradient1);
+      }
+
+      /*.bg_circle:active {
+        opacity: 0.6;
+      }
+*/
+      .circle2 {
+        fill:url(circlegradient3);
+      }
+      .circle2:hover {
+        fill: blue;
+      }
+
+
+
+      .circle3 {
+        fill:url(circlegradient3);
+      }
+      .circle3:hover {
+        fill: white;
+      }
+
+       #mermaid {
+        transition-property: transform;
+        transition-duration: 0.5s;
+        transform-origin: 300px 300px;
+      }
+
+
+
+       #mermaid:hover {
+        transform: rotate(10deg);
+      }
+
+      .circle4 {
+        fill:url(backgroundgradient);
+      }
+      .circle4:hover {
+        fill: white;
+      }
+
+      .circle5 {
+        fill:url(backgroundgradient);
+      }
+      .circle5:hover {
+        fill: white;
+      }
+
+      /*.backslash:active {
+        fill: #FF00FF;
+      }
+
+      #lines {
+        transform: rotate(10deg);
+      }
+
+      #agnes {
+        transition-property: transform;
+        transition-duration: 0.5s;
+        transform-origin: 300px 300px;
+      }
+
+      #agnes:hover {
+        transform: rotate(10deg);
+      }*/
