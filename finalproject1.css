@@ -1,4 +1,6 @@
-.circle1 {
+  
+
+      .circle1 {
         fill: url(#backgroundgradient);
       }
       
@@ -6,66 +8,160 @@
         fill: url(#gradient1);
       }
 
-      /*.bg_circle:active {
-        opacity: 0.6;
-      }
-*/
-      .circle2 {
-        fill:url(circlegradient3);
-      }
-      .circle2:hover {
-        fill: blue;
-      }
-
-
-
-      .circle3 {
-        fill:url(circlegradient3);
-      }
-      .circle3:hover {
-        fill: white;
-      }
 
        #mermaid {
         transition-property: transform;
         transition-duration: 0.5s;
         transform-origin: 300px 300px;
+        fill: black;
       }
-
-
 
        #mermaid:hover {
-        transform: rotate(10deg);
+        transform: rotate(3deg);
+       
       }
 
-      .circle4 {
-        fill:url(backgroundgradient);
-      }
-      .circle4:hover {
-        fill: white;
+
+       #fish1 {
+        transition-property: transform;
+        transition-duration: 0.9s;
+        transform-origin: 300px 300px;
+        fill: black;
       }
 
-      .circle5 {
-        fill:url(backgroundgradient);
-      }
-      .circle5:hover {
-        fill: white;
+       #fish1:hover {
+        transform: rotate(3deg);
+
       }
 
-      /*.backslash:active {
-        fill: #FF00FF;
+      #fish2 {
+        transition-property: transform;
+        transition-duration: 0.9s;
+        transform-origin: 300px 300px;
+        fill: black;
       }
 
-      #lines {
-        transform: rotate(10deg);
+       #fish2:hover {
+        transform: rotate(3deg);
+       
       }
 
-      #agnes {
+       #fish3 {
+        transition-property: transform;
+        transition-duration: 0.9s;
+        transform-origin: 300px 300px;
+        fill: black;
+      }
+
+       #fish3:hover {
+        transform: rotate(3deg);
+       
+      }
+
+       #seaturtle {
+        transition-property: transform;
+        transition-duration: 0.9s;
+        transform-origin: 300px 300px;
+        fill: black;
+      }
+
+       #seaturtle:hover {
+        transform: rotate(3deg);
+       
+      }
+
+       #seahorse {
+        transition-property: transform;
+        transition-duration: 0.9s;
+        transform-origin: 300px 300px;
+        fill: black;
+      }
+
+       #seahorse:hover {
+        transform: rotate(3deg);
+       
+      }
+
+       #crab {
+        transition-property: transform;
+        transition-duration: 0.9s;
+        transform-origin: 300px 300px;
+        fill: black;
+      }
+
+       #crab:hover {
+        transform: rotate(1deg);
+       
+      }
+
+      .circle2 {
         transition-property: transform;
         transition-duration: 0.5s;
         transform-origin: 300px 300px;
+        fill: #63B5B3;
       }
 
-      #agnes:hover {
-        transform: rotate(10deg);
-      }*/
+      .circle2:hover {
+        fill: #BDA0CB;
+      }
+
+      .circle3 {
+        transition-property: transform;
+        transition-duration: 0.5s;
+        transform-origin: 300px 300px;
+        fill: #63B5B3;
+      }
+
+      .circle3:hover {
+        fill: #BDA0CB;
+      }
+
+
+      .circle4 {
+        transition-property: transform;
+        transition-duration: 0.5s;
+        transform-origin: 300px 300px;
+        fill: #63B5B3;
+      }
+
+      .circle4:hover {
+        fill: #BDA0CB;
+      }
+
+     .circle5 {
+        transition-property: transform;
+        transition-duration: 0.5s;
+        transform-origin: 300px 300px;
+        fill: #63B5B3;
+      }
+
+      .circle5:hover {
+        fill: #BDA0CB;
+      }
+
+      .circle6 {
+        transition-property: transform;
+        transition-duration: 0.5s;
+        transform-origin: 300px 300px;
+        fill: #63B5B3;
+      }
+
+      .circle6:hover {
+        fill: #BDA0CB;
+      }
+
+
+      .circle7 {
+        transition-property: transform;
+        transition-duration: 0.5s;
+        transform-origin: 300px 300px;
+        fill: #63B5B3;
+      }
+
+      .circle7:hover {
+        fill: #BDA0CB;
+      }
+
+
+
+    
